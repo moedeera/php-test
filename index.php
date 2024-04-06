@@ -1,6 +1,3 @@
 <?php
-
-$path  = '../';
-
-require $path .'views/home.view.php';
+echo 'Hello World PHP test';
 
